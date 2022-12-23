@@ -1,61 +1,45 @@
-title,company,location
-Data Analyst,Nagarro,"New York, United States"
-Data Analyst,Robert Half,"New York, United States"
-Data Analyst,Agility Partners,United States
-Data Analyst,CampusPoint,"Portland, Oregon Metropolitan Area"
-Jr. Data Analyst,Aquent,"Torrance, CA"
-Data Analyst,CuraLinc Healthcare,United States
-Junior data analyst,Brooksource,Greater Philadelphia
-Data Analyst,OZ,"Fort Lauderdale, FL"
-Data Analyst (Digital Media),WaitWhat,"New York, United States"
-Data Analyst - (Remote - US),Mediavine,"Washington, DC"
-Data Analyst,Numero Data,"Herndon, VA"
-Data Analyst,Insight Global,United States
-Data Analyst,Webhelp,"San Jose, CA"
-Data Analyst,OmniForce Solutions,Dallas-Fort Worth Metroplex
-Data Analyst,Bluewater Hayes Inc.,"Dallas, TX"
-Data Analyst,EquipmentShare,"Sun City, KS"
-Data Analyst,SEOtechbench,United States
-Data Analyst,Mitchell Martin Inc.,"Plano, TX"
-Data Analyst,"Mack & Associates, Ltd.","Chicago, IL"
-Data Analyst (entry level),Phaxis,"New York, NY"
-Data Analyst,Realtor.com,"Austin, TX"
-Data Analyst,MicroHealth,"Vienna, VA"
-Data Analyst,Ticketmaster,"Beverly Hills, CA"
-Data Analyst,Sand Cherry,"Denver, CO"
-Data Analyst,Recidiviz,"San Francisco, CA"
-Data Analyst,LifeMD,"New York, NY"
-Data Analyst I,United We Dream,"Washington, DC"
-Data Analyst,"Horizon Health Care, Inc",United States
-Data Analyst,PatientFi,"Irvine, CA"
-Data Analyst Junior,SA Technologies Inc.,"Denver, CO"
-Data Analyst,Support EXP,"Ohio, United States"
-Data Analyst,eTeam,"Cupertino, CA"
-Data Analyst,9thWonder Agency,"Houston, TX"
-Data analyst,Diverse Lynx,"New Jersey, United States"
-Data and Insight Analyst,Navigate360,United States
-Data & Analytics Analyst,Parabolic Career,"New York, NY"
-Data Analyst,ThoroughCare,"Pittsburgh, PA"
-Data Analyst,Smart IT Frame LLC,United States
-Marketing Data Analyst,Vya,Cincinnati Metropolitan Area
-Data Analyst (100% Remote),The Mom Project,United States
-Data Analyst-ONLY w2,OPUSING LLC,"Milwaukee, WI"
-Data Analyst (Remote OK),Comtech Telecommunications Corp.,"Seattle, WA"
-Data Analyst,CorSource,"Portland, OR"
-Data Analyst,Octopus Energy,"Houston, TX"
-Data Analyst,Wakely Consulting Group,"National, MD"
-Data Analyst (Remote),Raytheon Technologies,"Texas, United States"
-Data Analyst (Market Research),Harnham,"New York, NY"
-Data Analyst,Marco Polo,United States
-Data Analyst - Remote,TMS,United States
-Associate Consultant (Data Analyst),Syniti,"Omaha, NE"
-Data Analyst I (Data Analyst),MindSource,"Austin, TX"
-Entry level Data Analyst / Full time (Remote),Jobcertify,"New York, NY"
-Full-time / Data Analyst - Entry level (Remote),HireMatch,"Dallas, TX"
-Data Analyst,AEG,"Los Angeles, CA"
-Data Analyst (Remote Eligible),Busey,United States
-Data Analyst,Axiom Global Technologies,"North Carolina, United States"
-Data Analyst,Progrexion,"Salt Lake City, UT"
-Data Analyst,ClifyX,"Mountain View, CA"
-Data Analyst,American Technology Consulting - ATC,"Texas, United States"
-ESG Data Analyst,Metric Search,"McLean, VA"
+title,company,location,url
+Data Analyst,Vaco,"Charleston, SC",https://www.linkedin.com/jobs/view/data-analyst-at-vaco-3395197756?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=iLsK4nZbou37rGkdOU1YpQ%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,Wilson Elser,"White Plains, NY",https://www.linkedin.com/jobs/view/data-analyst-at-wilson-elser-3407070866?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=xT5yYcxp4aoybDg7EHoSfw%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,Elsdon Consulting ltd,"Maryland, United States",https://www.linkedin.com/jobs/view/data-analyst-at-elsdon-consulting-ltd-3412011120?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=yVMvQOHf5x8pDQ2Goz8bFw%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,Support EXP,"Ohio, United States",https://www.linkedin.com/jobs/view/data-analyst-at-support-exp-3399799851?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=xKXs6hNtnfpCeyInIMafQQ%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card
+Strategic Data Analyst / Full-time (Remote),Workspaace,"Boston, MA",https://www.linkedin.com/jobs/view/strategic-data-analyst-full-time-remote-at-workspaace-3406653137?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=BmlIRnw8IrFs5OjlLPDpqA%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Science Analyst I - Mount Sinai Health Partners,Mount Sinai Morningside,"New York, NY",https://www.linkedin.com/jobs/view/data-science-analyst-i-mount-sinai-health-partners-at-mount-sinai-morningside-3402741585?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=EhsWgslmZfAStu%2FlBXnfRw%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,Greene Tweed,"Selma, TX",https://www.linkedin.com/jobs/view/data-analyst-at-greene-tweed-3411444978?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=uADIQj1XJEjfL7h4p2%2BgIg%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,Sevita,"New York, United States",https://www.linkedin.com/jobs/view/data-analyst-at-sevita-3403662505?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=QSSo0sYvcxoCXASowiEYAQ%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,Wellpath,"Nashville, TN",https://www.linkedin.com/jobs/view/data-analyst-at-wellpath-3402918031?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=ZNy8GnnqPIc%2FWEAsVAAcCw%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card
+Entry Level Data Analyst,CCS Global Tech,San Francisco Bay Area,https://www.linkedin.com/jobs/view/entry-level-data-analyst-at-ccs-global-tech-3412021370?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=Oqe5EjJ2sVP3X9a2tMD37g%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card
+Junior Data Analyst,"SunPlus Data Group, Inc.","Denver, CO",https://www.linkedin.com/jobs/view/junior-data-analyst-at-sunplus-data-group-inc-3403051445?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=IgRYnbq9wheJuXDiEEXaeQ%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,Robert Half,"Fort Worth, TX",https://www.linkedin.com/jobs/view/data-analyst-at-robert-half-3408377377?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=1kFAmFZZG3NrFU9KlMZSbw%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Visualization Analyst,"firstPro, Inc","Boston, MA",https://www.linkedin.com/jobs/view/data-visualization-analyst-at-firstpro-inc-3406913590?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=gOFU%2B5RID0nGsbhcv5LaUw%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,Clario,United States,https://www.linkedin.com/jobs/view/data-analyst-at-clario-3402224227?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=9H3dDpqS2oJgcw3AAxDjmA%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,State Farm,"Dunwoody, GA",https://www.linkedin.com/jobs/view/data-analyst-at-state-farm-3396822372?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=5oFUyeZ9XfoB10FnnzC30w%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,Mitchell Martin Inc.,"Plano, TX",https://www.linkedin.com/jobs/view/data-analyst-at-mitchell-martin-inc-3399748328?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=4K6ZNTAryaGSUmYfoH%2B2Tw%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,Sounds True,"Louisville, CO",https://www.linkedin.com/jobs/view/data-analyst-at-sounds-true-3395608709?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=B520F4aZp%2BZm16Cq64sWOQ%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card
+Entry Level Data Analyst,SynergisticIT,"San Antonio, TX",https://www.linkedin.com/jobs/view/entry-level-data-analyst-at-synergisticit-3397622523?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=%2Fbn%2BnYMmZNwFg2XfjzDQBA%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,HireTalent - Diversity Staffing & Recruiting Firm,United States,https://www.linkedin.com/jobs/view/data-analyst-at-hiretalent-diversity-staffing-recruiting-firm-3393644016?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=bIoxO2GosCiM2sN0FOVT2A%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,SharpHeads,"Stamford, CT",https://www.linkedin.com/jobs/view/data-analyst-at-sharpheads-3402855073?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=a%2FvWUSPjeJ5P2g0D%2BMYp5w%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Conversion Analyst / Full-time (Remote),Jobcertify,"San Francisco, CA",https://www.linkedin.com/jobs/view/data-conversion-analyst-full-time-remote-at-jobcertify-3402883033?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=FwI6lXUQtHcgnRn6wycN8Q%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,Insight Global,"Smyrna, GA",https://www.linkedin.com/jobs/view/data-analyst-at-insight-global-3395106406?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=3s0f%2BxVqnEgYrAs9MMYrkw%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card
+Senior Data Analyst,Lawrence Harvey,New York City Metropolitan Area,https://www.linkedin.com/jobs/view/senior-data-analyst-at-lawrence-harvey-3396273645?refId=K%2FmabWKE7j6oPJ5TcoVA5w%3D%3D&trackingId=SiJZcz6m81A07lbdvjq6Bw%3D%3D&position=25&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,Nagarro,"New York, United States",https://www.linkedin.com/jobs/view/data-analyst-at-nagarro-3406994801?refId=PIHgPHmxBQeUARkD0Q4IOQ%3D%3D&trackingId=nJwWxyEBjN5Xrf5BhkPm8A%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,LHH,United States,https://www.linkedin.com/jobs/view/data-analyst-at-lhh-3389961908?refId=PIHgPHmxBQeUARkD0Q4IOQ%3D%3D&trackingId=Xaky14OHBMN4y2uTRUAqVQ%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,CampusPoint,"Portland, Oregon Metropolitan Area",https://www.linkedin.com/jobs/view/data-analyst-at-campuspoint-3400310988?refId=PIHgPHmxBQeUARkD0Q4IOQ%3D%3D&trackingId=YEhpcWsUqSsvdiMhcJNhJg%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,Tesla,"Austin, TX",https://www.linkedin.com/jobs/view/data-analyst-at-tesla-3393833976?refId=PIHgPHmxBQeUARkD0Q4IOQ%3D%3D&trackingId=IjFwn6Wy35jKntgm1gcYOA%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,CuraLinc Healthcare,United States,https://www.linkedin.com/jobs/view/data-analyst-at-curalinc-healthcare-3395315802?refId=PIHgPHmxBQeUARkD0Q4IOQ%3D%3D&trackingId=X1i2nMg3UOR4bERwktfH0g%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card
+Junior data analyst,Brooksource,Greater Philadelphia,https://www.linkedin.com/jobs/view/junior-data-analyst-at-brooksource-3392115003?refId=PIHgPHmxBQeUARkD0Q4IOQ%3D%3D&trackingId=rxZKAdsDw7zA2p8TAFZXKQ%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,SPECTRAFORCE,United States,https://www.linkedin.com/jobs/view/data-analyst-at-spectraforce-3398047690?refId=PIHgPHmxBQeUARkD0Q4IOQ%3D%3D&trackingId=RH3vubsF4NgxetNkiLQufA%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,YES! Communities,Denver Metropolitan Area,https://www.linkedin.com/jobs/view/data-analyst-at-yes%21-communities-3398072455?refId=PIHgPHmxBQeUARkD0Q4IOQ%3D%3D&trackingId=A%2F%2Bmh0aZfyc4q%2FKSaPwruQ%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,OZ,"Fort Lauderdale, FL",https://www.linkedin.com/jobs/view/data-analyst-at-oz-3396150084?refId=PIHgPHmxBQeUARkD0Q4IOQ%3D%3D&trackingId=DsPgZEHF7IfjxXiPfcM53A%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst (Digital Media),WaitWhat,"New York, United States",https://www.linkedin.com/jobs/view/data-analyst-digital-media-at-waitwhat-3398418330?refId=PIHgPHmxBQeUARkD0Q4IOQ%3D%3D&trackingId=1fzoWcT9Zb%2FWWh9hijT61w%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,March Networks,"Raleigh, NC",https://www.linkedin.com/jobs/view/data-analyst-at-march-networks-3393498572?refId=PIHgPHmxBQeUARkD0Q4IOQ%3D%3D&trackingId=rFV0E0AoWhp00dY70Iqd1w%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,LifeMD,"New York, NY",https://www.linkedin.com/jobs/view/data-analyst-at-lifemd-3407072031?refId=PIHgPHmxBQeUARkD0Q4IOQ%3D%3D&trackingId=514yY7RprJkxx%2B5dMKHk9A%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,Numero Data,"Herndon, VA",https://www.linkedin.com/jobs/view/data-analyst-at-numero-data-3386981293?refId=PIHgPHmxBQeUARkD0Q4IOQ%3D%3D&trackingId=RgcRsGdUgx58IQmn7MIH5A%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,Webhelp,"San Jose, CA",https://www.linkedin.com/jobs/view/data-analyst-at-webhelp-3400750520?refId=PIHgPHmxBQeUARkD0Q4IOQ%3D%3D&trackingId=fe6XTth4xd%2BBI7M5xtD0Fg%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,OmniForce Solutions,Dallas-Fort Worth Metroplex,https://www.linkedin.com/jobs/view/data-analyst-at-omniforce-solutions-3402361160?refId=PIHgPHmxBQeUARkD0Q4IOQ%3D%3D&trackingId=cGgfAz8Oq6MAQngWugYpeg%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,Bluewater Hayes Inc.,"Dallas, TX",https://www.linkedin.com/jobs/view/data-analyst-at-bluewater-hayes-inc-3396597011?refId=PIHgPHmxBQeUARkD0Q4IOQ%3D%3D&trackingId=oL%2FQqjf4Xl7%2FaJ9F5XaBTA%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst - Remote,Education Strategy Consulting,United States,https://www.linkedin.com/jobs/view/data-analyst-remote-at-education-strategy-consulting-3397842095?refId=PIHgPHmxBQeUARkD0Q4IOQ%3D%3D&trackingId=IXuuiU%2B859dSytm3Ub6DmA%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,"Mack & Associates, Ltd.","Chicago, IL",https://www.linkedin.com/jobs/view/data-analyst-at-mack-associates-ltd-3399765142?refId=PIHgPHmxBQeUARkD0Q4IOQ%3D%3D&trackingId=9zP6G%2B8kkus1WOgk3zxt9w%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card
+Jr. Data Analyst (Remote),Conexess Group,"Morris Plains, NJ",https://www.linkedin.com/jobs/view/jr-data-analyst-remote-at-conexess-group-3398091385?refId=PIHgPHmxBQeUARkD0Q4IOQ%3D%3D&trackingId=fwoCt3Ie2hpSNa8VrO%2FoZQ%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card
+Junior Data Analyst,ClearChoice Dental Implant Centers,"Greenwood Village, CO",https://www.linkedin.com/jobs/view/junior-data-analyst-at-clearchoice-dental-implant-centers-3393436350?refId=PIHgPHmxBQeUARkD0Q4IOQ%3D%3D&trackingId=dIvda1ihOKE22fF57Oq0gw%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card
+Data Analyst,Nexus HR,"Sacramento, CA",https://www.linkedin.com/jobs/view/data-analyst-at-nexus-hr-3411048207?refId=GRyoS378epXsf2b4V1xP6Q%3D%3D&trackingId=GV70sHyz4sYmw6ynHPopRQ%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card
